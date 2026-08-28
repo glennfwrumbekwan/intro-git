@@ -1,1 +1,1 @@
-const inputEmail('')
+console.log('Login Page')
